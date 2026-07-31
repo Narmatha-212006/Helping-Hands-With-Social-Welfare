@@ -47,7 +47,7 @@ Dashboard sections can include:
 * Volunteer activity.
 * Upcoming events.
 * Recent activities.
-* Community impact overview.
+* Community impact overview
 
 > The current version includes placeholder/mock dashboard statistics as part of the project skeleton.
 
