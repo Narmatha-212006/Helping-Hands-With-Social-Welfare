@@ -83,7 +83,7 @@ NGOs can use the platform to coordinate and manage welfare initiatives.
 Possible functionalities include:
 
 * NGO registration.
-* Managing social welfare programs.
+* Managing social welfare programs
 * Handling help requests.
 * Organizing events.
 * Coordinating volunteers.
