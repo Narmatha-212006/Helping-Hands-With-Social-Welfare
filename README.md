@@ -5,7 +5,6 @@
 ## 📌 Overview
 
 **Helping Hands – Social Welfare Management System** is a full-stack web application designed to create a centralized platform for managing and coordinating social welfare activities.
-
 The platform aims to bridge the gap between **people seeking help** and **individuals or organizations willing to provide support**. Users can connect with volunteers, NGOs, donors, and social workers to address various social needs and contribute to community welfare.
 
 The application follows a modern **glassmorphism-based UI design** and uses a scalable backend architecture with **Spring Boot, Spring Security, JWT authentication, and MySQL**.
