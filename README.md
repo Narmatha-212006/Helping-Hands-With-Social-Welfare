@@ -1,6 +1,7 @@
 # 🤝 Helping Hands – Social Welfare Management System
 
 > A modern, full-stack social welfare management platform that connects people in need with volunteers, NGOs, donors, and social workers to make community support more accessible, organized, and impactful.
+
 ## 📌 Overview
 
 **Helping Hands – Social Welfare Management System** is a full-stack web application designed to create a centralized platform for managing and coordinating social welfare activities.
