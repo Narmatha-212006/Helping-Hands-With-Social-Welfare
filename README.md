@@ -11,7 +11,6 @@ The platform aims to bridge the gap between **people seeking help** and **indivi
 The application follows a modern **glassmorphism-based UI design** and uses a scalable backend architecture with **Spring Boot, Spring Security, JWT authentication, and MySQL**.
 
 ---
-
 ## 🎯 Objectives
 
 * Connect people in need with individuals and organizations willing to help.
